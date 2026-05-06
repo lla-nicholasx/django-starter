@@ -11,3 +11,7 @@ Personal development log — notes, findings, and ongoing work.
 - Added inline documentation for core functions
 - Drafted initial implementation plan for v2
 - Refactored module structure for clarity
+
+## 2026-05-06
+- Added basic usage examples to README
+- Ran linter, applied auto-fixes
